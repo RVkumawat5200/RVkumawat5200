@@ -252,8 +252,9 @@ Explore my other development projects and experiments.
 
 <br>
 
-<a href="https://github.com/RVkumawat5200?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
+<a href="https://github.com/RVkumawat5200?tab=repositories"> 
+ <img width="1366" height="634" alt="image" src="https://github.com/user-attachments/assets/57f71d04-6c51-4c47-9a6a-dd481e24afe1" />
+
 </a>
 
 </td>
