@@ -15,14 +15,20 @@
 </a>
 
 </div>
+  
 
----
+ ---
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="58%">
+<div align="center">
+
+<img
+src="https://github.com/user-attachments/assets/62f4dfe6-1e62-4af3-b1ca-ea471f21aa9b"
+width="320"
+alt="Ravi Kumawat"/>
+
+</div>
 
 ### Hey there! 👋
 
@@ -30,29 +36,14 @@ I'm **Ravi Kumawat**, a BCA student from India 🇮🇳 who enjoys turning ideas
 
 I believe the best way to learn development is to **build real things, solve problems, and keep improving.**
 
-* 🎓 BCA Student
-* 💻 Aspiring Full-Stack Developer
-* 🔭 Currently working on **MaruYatra**
-* 🌱 Currently learning **React.js, Node.js, SQL, Git & GitHub and n8n**
-* 🤝 Open to collaborating on **Web Development Projects**
-* 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, SQL, MySQL, Git, GitHub, n8n, Google Sheets & Google Apps Script**
-* 🌍 I enjoy traveling and exploring new technology
-* ⚡ **Build → Learn → Improve → Repeat**
-
-</td>
-
-<td width="42%" align="center">
-
-<div align="center">
-
- <img width="864" height="984" alt="RV pictures " src="https://github.com/user-attachments/assets/62f4dfe6-1e62-4af3-b1ca-ea471f21aa9b" />
-
-
-</div>
-
-</td>
-</tr>
-</table>
+- 🎓 BCA Student
+- 💻 Aspiring Full-Stack Developer
+- 🔭 Currently working on **MaruYatra**
+- 🌱 Currently learning **React.js, Node.js, SQL, Git & GitHub and n8n**
+- 🤝 Open to collaborating on **Web Development Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, SQL, MySQL, Git, GitHub, n8n, Google Sheets & Google Apps Script**
+- 🌍 I enjoy traveling and exploring new technology
+- ⚡ **Build → Learn → Improve → Repeat**
 
 ---
 
