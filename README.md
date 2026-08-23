@@ -43,7 +43,15 @@ I believe the best way to learn development is to **build real things, solve pro
 
 <td width="42%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RVkumawat5200&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" width="100%" alt="GitHub Stats"/>
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=RVkumawat5200&show_icons=true&theme=dark&hide_border=true"
+  width="495"
+  alt="Ravi Kumawat GitHub Stats"
+/>
+
+</div>
 
 </td>
 </tr>
