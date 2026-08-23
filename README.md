@@ -1,40 +1,234 @@
-<h1 align="center">Hi 👋, I'm Ravi Kumawat</h1>
-<h3 align="center">BCA Student & Aspiring Full-Stack Developer from India 🇮🇳 | Building practical projects with modern web technologies</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rvkumawat5200&label=Profile%20views&color=0e75b6&style=flat" alt="rvkumawat5200" /> </p>
+# 👋 Hi, I'm Ravi Kumawat
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvkumawat5200" alt="rvkumawat5200" /></a> </p>
+### BCA Student & Aspiring Full-Stack Developer from India 🇮🇳
 
-- 🔭 I’m currently working on [MaruYatra](https://maruyatra.netlify.app/)
+**Building practical web applications • Learning by building • Exploring new technologies 🚀**
 
-- 🌱 I’m currently learning **React.js, Node.js, REST APIs, SQL, Git & GitHub, AI Integration, Automation with n8n**
-
-- 👯 I’m looking to collaborate on [Open Source Web Development Projects](https://github.com/RVkumawat5200)
-
-- 🤝 I’m looking for help with [Full-Stack Development & Scalable Web Applications](https://github.com/RVkumawat5200)
-
-- 👨‍💻 All of my projects are available at [https://ravi-kumawat-portfolio.netlify.app/](https://ravi-kumawat-portfolio.netlify.app/)
-
-- 💬 Ask me about **React.js, JavaScript, Web Development, Git & GitHub, SQL, n8n, AI-powered Projects**
-
-- 📫 How to reach me **ravikumawat5200@gmail.com**
-
-- ⚡ Fun fact **I love turning ideas into real projects and learning something new with every build. 🚀I enjoy traveling, exploring new technology, and turning ideas into real-world projects. 🌍💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ravi-kumawat-435915325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-kumawat-435915325" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@rvk_aistudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rvk_aistudio" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/most_stone_91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="most_stone_91" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rvkumawat5200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rvkumawat5200" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ravikuma1i16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravikuma1i16" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/RVkumawat5200">
+    <img src="https://komarev.com/ghpvc/?username=RVkumawat5200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/RVkumawat5200?tab=followers">
+    <img src="https://img.shields.io/github/followers/RVkumawat5200?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvkumawat5200&show_icons=true&locale=en&layout=compact" alt="rvkumawat5200" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rvkumawat5200&show_icons=true&locale=en" alt="rvkumawat5200" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rvkumawat5200&" alt="rvkumawat5200" /></p>
+* 🎓 BCA Student
+* 💻 Interested in Web Development and practical software projects
+* 🔭 Currently working on **[MaruYatra](https://maruyatra.netlify.app/)**
+* 🌱 Currently learning **React.js, Node.js, SQL, Git & GitHub, and n8n**
+* 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, SQL, MySQL, Git, GitHub, n8n, Google Sheets & Google Apps Script**
+* 🤝 Open to collaborating on **Web Development Projects**
+* 🌍 I enjoy traveling, exploring technology, and turning ideas into real-world projects
+* 📫 Reach me at **[ravikumawat5200@gmail.com](mailto:ravikumawat5200@gmail.com)**
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://maruyatra.netlify.app/">
+
+<img src="https://img.shields.io/badge/🌐%20MaruYatra-Rajasthan%20Travel%20Platform-0e75b6?style=for-the-badge" alt="MaruYatra"/>
+
+</a>
+
+<br><br>
+
+**MaruYatra** is a Rajasthan-focused travel platform designed to help users explore destinations and plan their journeys.
+
+<a href="https://maruyatra.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Website-Visit%20Project-success?style=flat-square" alt="Live Website"/>
+</a>
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
+</a>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
+</a>
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://n8n.io/">
+<img src="https://skillicons.dev/icons?i=n8n" height="45" alt="n8n"/>
+</a>
+<a href="https://www.arduino.cc/">
+<img src="https://skillicons.dev/icons?i=arduino" height="45" alt="Arduino"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/RVkumawat5200">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RVkumawat5200&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" alt="Ravi's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/RVkumawat5200">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVkumawat5200&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Ravi's Top Languages"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/RVkumawat5200">
+<img src="https://streak-stats.demolab.com?user=RVkumawat5200&hide_border=true&theme=transparent" alt="Ravi's GitHub Streak"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/RVkumawat5200">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RVkumawat5200&theme=github-compact&hide_border=true&area=true" alt="Ravi's GitHub Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/RVkumawat5200">
+<img src="https://github-profile-trophy.vercel.app/?username=RVkumawat5200&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
+</a>
+
+</div>
+
+---
+
+## 📌 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/RVkumawat5200">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RVkumawat5200&theme=github" alt="GitHub Profile Summary"/>
+</a>
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/rvkumawat5200/">
+<img src="https://img.shields.io/badge/LeetCode-RVkumawat5200-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<a href="https://www.codechef.com/users/most_stone_91">
+<img src="https://img.shields.io/badge/CodeChef-most__stone__91-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/ravikuma1i16">
+<img src="https://img.shields.io/badge/GeeksforGeeks-ravikuma1i16-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ravi-kumawat-435915325">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@RVK_aistudio">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" alt="YouTube"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ravikumawat5200@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/RVkumawat5200">
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## 🌟 GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/RVkumawat5200">
+<img src="https://img.shields.io/github/stars/RVkumawat5200?style=for-the-badge&logo=github&label=Total%20Stars" alt="Total Stars"/>
+</a>
+
+<a href="https://github.com/RVkumawat5200?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Build. Learn. Improve. Repeat."* 🚀
+
+**Thanks for visiting my profile!**
+
+</div>
