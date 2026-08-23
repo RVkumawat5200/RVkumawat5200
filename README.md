@@ -26,9 +26,9 @@ alt="Followers"/>
 
 </div>
 
----
+ ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <div align="center">
 
@@ -55,7 +55,6 @@ I believe the best way to learn development is to **build real things, solve pro
 - ⚡ **Build → Learn → Improve → Repeat**
 
 ---
-
 # 🌐 Explore My Portfolio
 
 <div align="center">
