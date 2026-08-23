@@ -99,8 +99,8 @@ I believe the best way to learn development is to **build real things, solve pro
 </a>
 
 <br><br>
+ <img width="1350" height="637" alt="image" src="https://github.com/user-attachments/assets/00a008e2-e371-4634-b16c-4a514ce50474" />
 
-<img src="./assets/maruyatra-preview.png" width="90%" alt="MaruYatra Website Preview"/>
 
 <br><br>
 
