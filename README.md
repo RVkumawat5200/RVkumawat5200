@@ -45,11 +45,7 @@ I believe the best way to learn development is to **build real things, solve pro
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=RVkumawat5200&show_icons=true&theme=dark&hide_border=true"
-  width="495"
-  alt="Ravi Kumawat GitHub Stats"
-/>
+ 
 
 </div>
 
