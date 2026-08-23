@@ -236,7 +236,8 @@ Rajasthan-focused travel and tourism platform.
 <br>
 
 <a href="https://maruyatra.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-0B5ED7?style=for-the-badge" alt="Live Demo"/>
+ <img width="1350" height="638" alt="image" src="https://github.com/user-attachments/assets/c3bfdfa8-aa0f-49d8-aa57-b4bdf9457829" />
+
 </a>
 
 </td>
