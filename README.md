@@ -23,10 +23,8 @@
 
 <div align="center">
 
-<img
-src="https://github.com/user-attachments/assets/62f4dfe6-1e62-4af3-b1ca-ea471f21aa9b"
-width="320"
-alt="Ravi Kumawat"/>
+<img width="720" height="1280" alt="1000059929 jpg" src="https://github.com/user-attachments/assets/e84925bb-31ee-49a8-96e9-b284931a41c8" />
+
 
 </div>
 
