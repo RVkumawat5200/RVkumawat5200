@@ -59,7 +59,8 @@ I believe the best way to learn development is to **build real things, solve pro
 
 <a href="https://ravi-kumawat-portfolio.netlify.app/">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:071A2F,50:0B5ED7,100:36BCF7&text=%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO%20%E2%86%92&fontSize=30&fontColor=ffffff&animation=twinkling" width="80%" alt="Visit Portfolio"/>
+<img width="720" height="1280" alt="1000059929 jpg" src="https://github.com/user-attachments/assets/84dd957c-4084-4bd8-a203-72d912554b4c" />
+
 
 </a>
 
