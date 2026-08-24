@@ -16,15 +16,16 @@
 
 </div>
   
-
- ---
+---
 
 ## 👨‍💻 About Me
 
 <div align="center">
 
-<img width="720" height="1280" alt="1000059929 jpg" src="https://github.com/user-attachments/assets/e84925bb-31ee-49a8-96e9-b284931a41c8" />
-
+<img
+src="https://github.com/user-attachments/assets/e84925bb-31ee-49a8-96e9-b284931a41c8"
+width="280"
+alt="Ravi Kumawat"/>
 
 </div>
 
@@ -44,7 +45,6 @@ I believe the best way to learn development is to **build real things, solve pro
 - ⚡ **Build → Learn → Improve → Repeat**
 
 ---
-
 # 🌐 Explore My Portfolio
 
 <div align="center">
