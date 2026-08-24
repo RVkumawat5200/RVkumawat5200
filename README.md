@@ -58,8 +58,7 @@ I believe the best way to learn development is to **build real things, solve pro
 <br>
 
 <a href="https://ravi-kumawat-portfolio.netlify.app/">
-
-<img width="720" height="1280" alt="1000059929 jpg" src="https://github.com/user-attachments/assets/84dd957c-4084-4bd8-a203-72d912554b4c" />
+<img width="720" height="1280" alt="1000059929 jpg" src="https://github.com/user-attachments/assets/644032e9-adfb-41ff-86f5-4ad79ad965de" />
 
 
 </a>
